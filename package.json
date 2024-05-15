@@ -1,7 +1,7 @@
 {
   "name": "sose24-api-exercise",
   "version": "1.0.0",
-  "type" : "module",
+  "type": "module",
   "scripts": {
     "test": "jest",
     "start": "node src/main.js"
@@ -18,7 +18,7 @@
     "bcrypt": "^5.1.1",
     "express": "^4.19.2",
     "express-session": "^1.18.0",
-    "joi": "^17.12.3",
+    "joi": "^17.13.1",
     "jsonwebtoken": "^9.0.2",
     "passport": "^0.7.0",
     "passport-http": "^0.3.0",
